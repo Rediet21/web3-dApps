@@ -5,7 +5,7 @@ const algosdk = require('algosdk');
 const myAlgoConnect = new MyAlgoConnect();
 const sender = localStorage.getItem('token')
 
-const baseServer = 'https://testnet-algorand.api.purestake.io/ps2'
+const baseServer = ''
 const port = '';
 const token = {
     'X-API-Key': 'F5w4DoU6Kg3pJlYR4Wsyh28decsbCirSqKMGrk1f'
