@@ -4,13 +4,13 @@ import React from 'react'
 import './App.css';
 
 import Login from './components/Login'
-import Trainee from './pages/Trainee'
+import Trainee from './layout/Trainee'
 import ProtectedRoute from './components/ProtectedRoute'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 
 import './assets/css/app.css'
 import Home from './pages/Home'
-import Trainer from './pages/Trainer';
+
 require('dotenv').config()
 
 const reach = loadStdlib("ALGO")
