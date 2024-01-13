@@ -4,7 +4,7 @@ import React from 'react'
 import './App.css';
 
 import Login from './components/Login'
-import Trainee from './layout/Trainee'
+import Trainee from './components/layout/Trainee'
 import ProtectedRoute from './components/ProtectedRoute'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 
