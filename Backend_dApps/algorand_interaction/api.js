@@ -1,5 +1,5 @@
 const algosdk = require('algosdk');
-const baseServer = 'https://testnet-algorand.api.purestake.io/ps2'
+const baseServer = 'https://app.dappflow.org/dev-wallets'
 const port = '';
 const token = {
     'X-API-Key': 'F5w4DoU6Kg3pJlYR4Wsyh28decsbCirSqKMGrk1f'
