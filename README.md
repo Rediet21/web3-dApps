@@ -25,7 +25,7 @@ List
 4. Dappflow: To test my application and Deployment Meanwhile
 
 ## Tech Stack Diagram
-![Tech Stack Diagram]("C:\Users\HP\Desktop\10 files\week_3\tech stack.png")
+![Tech Stack Diagram]("B:\web3-dApps\image.png")
 
 
    
