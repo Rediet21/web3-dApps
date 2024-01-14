@@ -24,12 +24,12 @@ List
 3. MyAlgo Wallet : for 
 4. Dappflow: To test my application and Deployment Meanwhile
 
-## Techstack Diagram
+## Tech Stack Diagram
+![Tech Stack Diagram]("C:\Users\HP\Desktop\10 files\week_3\tech stack.png")
 
 
    
   	
-
 
 
 
